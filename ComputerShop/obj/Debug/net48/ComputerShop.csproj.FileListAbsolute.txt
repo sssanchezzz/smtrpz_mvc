@@ -1,0 +1,9 @@
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.csprojAssemblyReference.cache
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.AssemblyInfoInputs.cache
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.AssemblyInfo.cs
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.csproj.CoreCompileInputs.cache
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/bin/Debug/net48/ComputerShop.exe.config
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/bin/Debug/net48/ComputerShop.exe
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/bin/Debug/net48/ComputerShop.pdb
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.exe
+/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/Debug/net48/ComputerShop.pdb

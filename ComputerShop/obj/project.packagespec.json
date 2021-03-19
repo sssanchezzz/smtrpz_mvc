@@ -1,0 +1,31 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/ComputerShop.csproj",
+    "projectName": "ComputerShop",
+    "projectPath": "/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/ComputerShop.csproj",
+    "outputPath": "/Users/sasha/Documents/КПИ/2_kurs/sem_2/СМТРПЗ/proj/ComputerShop/ComputerShop/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net48"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net48": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net48": {
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+    }
+  }
+}
